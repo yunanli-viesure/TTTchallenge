@@ -23,4 +23,4 @@ wenyan hello_world.wy
 # 問天地好在。
 # 問天地好在。
 ```
-P.S. "問天地好在。" is almost the same with "Hello World!" in ancient Chinese
+P.S. "問天地好在。" has the same meaning with "Hello World!" in ancient Chinese.
