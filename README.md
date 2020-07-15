@@ -10,7 +10,7 @@ Then
 ```
 var myString = "Hello, World!"
 Hello, World!
-
+```
 ### 2.
 ```
 swift hello_world.swift
