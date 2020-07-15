@@ -27,6 +27,10 @@ npm install -g @wenyan/cli
 
 Try run the included examples, e.g.:
 ```
-wenyan examples/helloworld.wy
-# will output: 問天地好在。
+wenyan helloworld.wy
+# will output: 
+# 問天地好在。
+# 問天地好在。
+# 問天地好在。
 ```
+P.S. "問天地好在。" is almost the same with "Hello World!" in ancient Chinese
