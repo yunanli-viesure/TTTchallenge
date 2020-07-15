@@ -1,5 +1,6 @@
 # TTTchallenge
 
+# swift
 Open the terminal in IOS Operation System. You can try two ways to run the "Hello World!"
 ### 1.
 Type in 
@@ -14,4 +15,18 @@ Hello, World!
 ### 2.
 ```
 swift hello_world.swift
+```
+
+# wenyan (just for fun)
+
+## Command Line Compiler
+Install the compiler by
+```
+npm install -g @wenyan/cli
+```
+
+Try run the included examples, e.g.:
+```
+wenyan examples/helloworld.wy
+# will output: 問天地好在。
 ```
