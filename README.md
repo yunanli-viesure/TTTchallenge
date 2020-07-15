@@ -1,25 +1,15 @@
 # TTTchallenge
 
-# swift
-Open the terminal in IOS Operation System. You can try two ways to run the "Hello World!"
-### 1.
-Type in 
-```
-swift
-```
-Then
-```
-var myString = "Hello, World!"
-Hello, World!
-```
-### 2.
+## 1.swift
+### Command Line Compiler
+
 ```
 swift hello_world.swift
 ```
 
-# wenyan (just for fun)
+## 2.wenyan (just for fun)
 
-## Command Line Compiler
+### Command Line Compiler
 Install the compiler by
 ```
 npm install -g @wenyan/cli
