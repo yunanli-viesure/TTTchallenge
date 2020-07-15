@@ -27,7 +27,7 @@ npm install -g @wenyan/cli
 
 Try run the included examples, e.g.:
 ```
-wenyan helloworld.wy
+wenyan hello_world.wy
 # will output: 
 # 問天地好在。
 # 問天地好在。
